@@ -1,0 +1,5 @@
+ Target penyelesaian program:
+ - website portofolio Fitrah Amalia
+ - memuat konten riwayat pendidikan
+ - memuat konten deskripsi pekerjaan 
+ - memuat konten kompetensi
