@@ -3,3 +3,4 @@
  - memuat konten riwayat pendidikan
  - memuat konten deskripsi pekerjaan 
  - memuat konten kompetensi
+ - memuat galeri / dokumentasi kegiatan
