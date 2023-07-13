@@ -1,0 +1,4 @@
+fa-dream rencana konten:
+- gallery --> grid layouting
+- vlog --> jika diperlukan
+- berkas --> masih dipertimbangkan
